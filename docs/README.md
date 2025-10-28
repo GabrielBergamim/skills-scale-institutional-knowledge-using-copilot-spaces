@@ -17,13 +17,14 @@ Our **key workflows** emphasize transparency and quality: we use GitHub Projects
 Explore our project management process guides:
 
 - [**OctoAcme Project Management Overview**](octoacme-project-management-overview.md) — High-level introduction to principles, roles, artifacts, and lifecycle
+- [**OctoAcme Roles & Personas**](octoacme-roles-and-personas.md) — Definitions of key roles (PM, PdM, Developers, BA, UX, QA, DevOps) and their responsibilities
+- [**OctoAcme Role Onboarding & Cross-Team Collaboration**](octoacme-role-onboarding-and-collaboration.md) — Onboarding checklists, responsibility matrix, and hand-off protocols for effective collaboration
 - [**OctoAcme Project Initiation**](octoacme-project-initiation.md) — Guidance for starting new projects with clear problem statements and stakeholder alignment
 - [**OctoAcme Project Planning**](octoacme-project-planning.md) — Turn initiatives into actionable plans with prioritized backlogs and release timelines
 - [**OctoAcme Execution & Tracking**](octoacme-execution-and-tracking.md) — Day-to-day execution, PR workflows, quality practices, and progress tracking
 - [**OctoAcme Risk Management & Communication**](octoacme-risks-and-communication.md) — Identify, manage, and communicate risks and dependencies effectively
 - [**OctoAcme Release & Deployment**](octoacme-release-and-deployment.md) — Standardized release processes, deployment checklists, and rollback procedures
 - [**OctoAcme Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and drive ongoing process enhancements
-- [**OctoAcme Roles & Personas**](octoacme-roles-and-personas.md) — Definitions of key roles (PM, PdM, Developers, QA) and their responsibilities
 
 ## How to Use These Docs
 
