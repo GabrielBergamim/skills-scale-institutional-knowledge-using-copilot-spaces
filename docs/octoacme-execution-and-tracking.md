@@ -17,11 +17,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
-- Unit tests for new logic
-- Integration tests where applicable
-- End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Unit tests for new logic (owned by Developers)
+- Integration tests where applicable (coordinated by QA Lead)
+- End-to-end smoke tests for critical flows before release (validated by QA Lead)
+- Security scanning in CI (managed by DevOps Engineer)
+- Manual QA for feature acceptance when needed (performed by QA team)
+- Usability testing for user-facing features (coordinated by UX Designer)
+
+For detailed QA responsibilities and hand-offs, see [Role Onboarding & Collaboration](octoacme-role-onboarding-and-collaboration.md).
 
 ## Reporting & Metrics
 - Track velocity and burndown
